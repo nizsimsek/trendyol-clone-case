@@ -1,0 +1,403 @@
+{
+  "categories": [
+    { "id": 1, "name": "EKRAN KARTI" },
+    { "id": 2, "name": "BİLGİSAYAR KASASI" },
+    { "id": 3, "name": "HARD DİSK DRİVE" },
+    { "id": 4, "name": "SOLİD STATE DRİVER" },
+    { "id": 5, "name": "ANAKART" },
+    { "id": 6, "name": "İŞLEMCİ" },
+    { "id": 7, "name": "RAM BELLEK" }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "brandName": "ASUS",
+      "model": "Gtx1650",
+      "name": "Asus Dual Geforce Gtx1650 4Gb 128Bit Ekran Kartı",
+      "price": 5000,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty18/product/media/images/20201030/12/20557244/20370227/1/1_org_zoom.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "brandName": "EVGA",
+      "model": "Rtx3090",
+      "name": "Evga Rtx3090 24gb 384Bit Ekran Kartı",
+      "price": 52000,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty290/product/media/images/20220108/12/23320783/353769520/1/1_org_zoom.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "brandName": "MSI",
+      "model": "Rx6600",
+      "name": "Msi Radeon Rx6600 Armor 8Gb 128Bit Ekran Kartı",
+      "price": 8500,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty288/product/media/images/20220106/12/22561683/352650192/1/1_org_zoom.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "brandName": "MSI",
+      "model": "Gt1030",
+      "name": "Msi Geforce GT1030 2Gb 64Bit Ekran Kartı",
+      "price": 1400,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty72/product/media/images/20210403/00/c1a213ff/13846458/1/1_org_zoom.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 5,
+      "brandName": "MSI",
+      "model": "Rtx3090",
+      "name": "Msi Geforce Rtx3090 Suprim X 24Gb 256Bit Ekran Kartı",
+      "price": 67000,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty80/product/media/images/20210310/18/70501162/120436436/1/1_org_zoom.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 6,
+      "brandName": "GIGABYTE",
+      "model": "Rtx2060",
+      "name": "Gigabyte Rtx2060 6Gb 192Bit Ekran Kartı",
+      "price": 12500,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty296/product/media/images/20220113/21/26313413/358231068/1/1_org_zoom.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 7,
+      "brandName": "ASUS",
+      "model": "Gtx1660",
+      "name": "ASUS Phoenix GeForce GTX 1660 SUPER 6GB OC 192Bit Ekran Kartı",
+      "price": 9000,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty96/product/media/images/20210404/14/e1a57b48/58757966/1/1_org_zoom.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 8,
+      "brandName": "GAMETECH",
+      "model": "Legend Mesh",
+      "name": "GAMETECH Legend Mesh Panel 4 Adet Raınbow Fan Kasa",
+      "price": 600,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty222/product/media/images/20211103/18/165125683/133398616/1/1_org_zoom.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": 9,
+      "brandName": "MSI",
+      "model": "Mag Forge",
+      "name": "MSI Mag Forge 100r Temperli Cam Mid Tower Atx Bilgisayar Kasası",
+      "price": 850,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty18/product/media/images/20201030/12/20558721/66018644/1/1_org_zoom.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": 10,
+      "brandName": "GAMEPOWER",
+      "model": "Warcry",
+      "name": "Gamepower Warcry 6x120mm Argb Fanlı Gaming Oyuncu Bilgisayar Kasası",
+      "price": 2000,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty5/product/media/images/20200701/9/3690051/75648994/1/1_org_zoom.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": 11,
+      "brandName": "GAMETECH",
+      "model": "Redline Mesh",
+      "name": "GAMETECH Redlıne Mesh 4x120mm Rainbow Fanlı Pro Gaming Oyuncu Bilgisayar Kasası",
+      "price": 500,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty117/product/media/images/20210524/19/91234204/78722809/1/1_org_zoom.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": 12,
+      "brandName": "PHANTEKS",
+      "model": "Eclipse P500a",
+      "name": "Phanteks Eclipse P500a Drgb Temperli Cam Mesh Ön Panelbeyaz Mid Tower Atx Bilgisayar Kasası",
+      "price": 2000,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty60/product/media/images/20210127/1/57512930/113718072/2/2_org_zoom.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": 13,
+      "brandName": "SAMSUNG",
+      "model": "M3",
+      "name": "Samsung M3 320gb 2.5 Usb 3.0 Harici Taşınabilir Disk",
+      "price": 300,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty78/product/media/images/20210304/1/68524424/148234157/1/1_org_zoom.jpg",
+      "categoryId": 3
+    },
+    {
+      "id": 14,
+      "brandName": "WD",
+      "model": "BLUE",
+      "name": "WD Blue 1TB 7200RPM Sata 3.0 64Mb 3,5 Sabit Disk",
+      "price": 500,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty70/product/media/images/20210214/23/62520976/140061179/1/1_org_zoom.jpg",
+      "categoryId": 3
+    },
+    {
+      "id": 15,
+      "brandName": "TOSHIBA",
+      "model": "CNV+",
+      "name": "Toshiba Taşınabilir Disk - Taşınabilir Bellek - 2 Tb - Usb 3.0",
+      "price": 900,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty244/product/media/images/20211113/19/178778708/311682506/1/1_org_zoom.jpg",
+      "categoryId": 3
+    },
+    {
+      "id": 16,
+      "brandName": "SEAGATE",
+      "model": "ST4000VX007",
+      "name": "Seagate St4000vx007 4 Tb 3.5'' 5900rpm 64 Mb Sata 3 Güvenlik Cihazı Dahili Hard Disk",
+      "price": 1400,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty274/product/media/images/20211218/20/13026809/15373540/1/1_org_zoom.jpg",
+      "categoryId": 3
+    },
+    {
+      "id": 17,
+      "brandName": "TOSHIBA",
+      "model": "L200",
+      "name": "Toshiba 1TB 2.5inç L200 5400rpm SATA3 128MB Sabit Disk",
+      "price": 600,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty93/product/media/images/20210404/00/48dac4c9/22086010/1/1_org_zoom.jpg",
+      "categoryId": 3
+    },
+    {
+      "id": 18,
+      "brandName": "WD",
+      "model": "GOLD",
+      "name": "WD 3.5 10tb Gold Enterprise 7200rpm 256mb Cache Sata 3.0 Nas Harddisk",
+      "price": 1400,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty97/product/media/images/20210404/21/88694e04/59791392/1/1_org_zoom.jpg",
+      "categoryId": 3
+    },
+    {
+      "id": 19,
+      "brandName": "WD",
+      "model": "BLACK",
+      "name": "WD 2.5 1 Tb 7200 Rpm Sata3 64mb Notebook Hard Disk",
+      "price": 1300,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty302/product/media/images/20220121/18/31536188/365382748/1/1_org_zoom.jpg",
+      "categoryId": 3
+    },
+    {
+      "id": 20,
+      "brandName": "SEAGATE",
+      "model": "ST2000DM008",
+      "name": "Seagate 3.5 2tb 7200 Rpm 256mb Sata3 Pc Hdd",
+      "price": 900,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty273/product/media/images/20211218/20/13026748/16907027/2/2_org_zoom.jpg",
+      "categoryId": 3
+    },
+    {
+      "id": 21,
+      "brandName": "SAMSUNG",
+      "model": "980Pro",
+      "name": "Samsung 980 Pro Nvme™ M.2 Ssd 1 Tb",
+      "price": 3000,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty25/product/media/images/20201122/4/30162073/109881010/0/0_org_zoom.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": 22,
+      "brandName": "TOSHIBA",
+      "model": "KIOXIA",
+      "name": "Toshiba Kioxia Exceria 250gb M.2 Nvme ",
+      "price": 800,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty180/product/media/images/20210923/6/135559997/248778268/0/0_org_zoom.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": 23,
+      "brandName": "WD",
+      "model": "WDS200T2B0C",
+      "name": "WD 2tb Blue Sn550 Nvme 2600/1800m",
+      "price": 4000,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty118/product/media/images/20210526/16/92256717/178829579/0/0_org_zoom.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": 24,
+      "brandName": "SANDISK",
+      "model": "SDSSDH3N-500G-G25",
+      "name": "Sandisk Ultra 3D 500GB 2400MB-1750MB/s NVMe M.2 SSD",
+      "price": 800,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty10/product/media/images/20200815/1/8102381/81517923/1/1_org_zoom.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": 25,
+      "brandName": "MLD",
+      "model": "M300",
+      "name": "MLD M300 1tb Nvme Ssd 3300/3100mb/s Pcıe Gen 3x4",
+      "price": 1000,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty304/product/media/images/20220122/10/32448672/172995011/1/1_org_zoom.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": 26,
+      "brandName": "GIGABYTE",
+      "model": "B450M",
+      "name": "Gigabyte B450m S2h Am4 Ryzen Ddr4 Vga Dvi Hdmi",
+      "price": 500,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty301/product/media/images/20220121/14/31370048/17335839/1/1_org_zoom.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": 27,
+      "brandName": "ASUS",
+      "model": "H510M",
+      "name": "ASUS Prıme H510m-k D-sub Hdmı M.2 Usb3.2 Lga1200 10 Ve 11.nesil H510M-K",
+      "price": 1200,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty112/product/media/images/20210506/19/86410297/171765005/0/0_org_zoom.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": 28,
+      "brandName": "MSI",
+      "model": "B460M",
+      "name": "MSI B460m-a Pro Intel B460 2933mhz Ddr4 Matx Anakart",
+      "price": 2000,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty16/product/media/images/20201012/3/15163728/81321918/1/1_org_zoom.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": 29,
+      "brandName": "ASUS",
+      "model": "B450M+",
+      "name": "ASUS Tuf Gaming B450m-plus Iı Am4 Ryzen Ddr4",
+      "price": 1000,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty18/product/media/images/20201025/1/19493452/97212232/1/1_org_zoom.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": 30,
+      "brandName": "MSI",
+      "model": "B450M",
+      "name": "MSI B450m-a Pro Max Ddr4 4133mhz (oc) Am4 Micro Atx Anakart B450M-A-PRO-MAX",
+      "price": 500,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty10/product/media/images/20201021/9/18081130/57707919/1/1_org_zoom.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": 31,
+      "brandName": "INTEL",
+      "model": "I5-10400F",
+      "name": "Intel Cpu Core I5 10400f 2.90ghz 12mb 1200p Box 65w (10.nesil) Core i5 10400F",
+      "price": 2100,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty309/product/media/images/20220127/11/37471798/83948117/1/1_org_zoom.jpg",
+      "categoryId": 6
+    },
+    {
+      "id": 32,
+      "brandName": "AMD",
+      "model": "RYZEN 5",
+      "name": "Amd Ryzen 5 5600x 3.7ghz 32mb Önbellek 6 Çekirdek",
+      "price": 4500,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty25/product/media/images/20201126/1/32577733/101626678/1/1_org_zoom.jpg",
+      "categoryId": 6
+    },
+    {
+      "id": 33,
+      "brandName": "INTEL",
+      "model": "I7-11700K",
+      "name": "Intel Core I7-11700k 3.6 Ghz 5.0 Ghz Max. Fclga1200 125w",
+      "price": 5000,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty278/product/media/images/20211224/14/15915057/157750592/1/1_org_zoom.jpg",
+      "categoryId": 6
+    },
+    {
+      "id": 34,
+      "brandName": "AMD",
+      "model": "RYZEN 7",
+      "name": "Amd Ryzen 7 5700g 3.80ghz 8 Çekirdek 20mb Önbellek Soket Am4 Işlemci ",
+      "price": 5500,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty222/product/media/images/20211103/10/164445388/229389608/1/1_org_zoom.jpg",
+      "categoryId": 6
+    },
+    {
+      "id": 35,
+      "brandName": "XPG",
+      "model": "GAMMIX",
+      "name": "XPG Gammix D30 Ax4u32008g16a-sr30, 8gb, Ddr4, 3200mhz, Cl16",
+      "price": 500,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty234/product/media/images/20211110/13/173423989/170761955/1/1_org_zoom.jpg",
+      "categoryId": 7
+    },
+    {
+      "id": 36,
+      "brandName": "CORSAIR",
+      "model": "VENGEANCE",
+      "name": "Corsair VENGEANCE 16GB(2x8GB) DDR4 3200MHz CL16 Ram",
+      "price": 1400,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty98/product/media/images/20210404/09/458feeea/15358149/1/1_org_zoom.jpg",
+      "categoryId": 7
+    },
+    {
+      "id": 37,
+      "brandName": "CORSAIR",
+      "model": "VENGEANCE",
+      "name": "Corsair Cmk8gx4m1d3000c16 Vengeance 8gb 3000mhz Ddr4 Cl16",
+      "price": 500,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty80/product/media/images/20210311/13/70693230/14668693/1/1_org_zoom.jpg",
+      "categoryId": 7
+    },
+    {
+      "id": 38,
+      "brandName": "CRUCIAL",
+      "model": "BALLISTIX",
+      "name": "Crucial Ballistix Bl2k8g32c16u4bl 16 Gb Ddr4 3200mhz Rgb Pc Ram Bellek Cl16(2x8gbkit)",
+      "price": 1300,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty38/product/media/images/20201225/22/42306697/123404283/0/0_org_zoom.jpg",
+      "categoryId": 7
+    },
+    {
+      "id": 39,
+      "brandName": "GSKILL",
+      "model": "RIPJAWSV",
+      "name": "G Skill Gskıll 8gb Ripjawsv Kırmızı Ddr4 3000 Mhz Cl16 Ram",
+      "price": 500,
+      "commentCount": 120,
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty86/product/media/images/20210402/23/77344126/20536555/1/1_org_zoom.jpg",
+      "categoryId": 7
+    }
+  ]
+}
